@@ -12,13 +12,13 @@ end
 
 def pioneer
   pioneer = {
-    :name => "grasshopper"
+    :name => String
   }
 end
 
 
 def id_hash_generator(number)
   id_hash_generator = {
-    :id => 5
+    :id => Integer
   }
 end
