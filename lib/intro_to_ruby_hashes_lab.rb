@@ -12,7 +12,7 @@ end
 
 def pioneer
   pioneer = {
-    :name => String
+    :name => "Grace Hopper"
   }
 end
 
